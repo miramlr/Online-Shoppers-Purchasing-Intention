@@ -1,4 +1,6 @@
 # Online-Shoppers-Purchasing-Intention
+This repository is the result of analysis and prediction of dataset "Online Shoppers Purchasing Intention" which is presented in Bahasa Indonesia by ec-Team for Final Project of Rakamin Academy Batch 30. 
+
 The goal of this project is to increase the conversion rate of online shopping site visitors into customers leading to increased sales and revenue through analyzing visitor behavior and predicting the visitors who are likely to purchase using classification - machine learning algorithms. The results show that page values has the greatest impact on a visitor's purchase decision. The conversion rate to purchase increases up to 31.7% by applying model and actionable recommendation from insights.
 
 Dataset: Online Shoppers Purchasing Intention, UCI Machine Learning, 2018 [[source]](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
